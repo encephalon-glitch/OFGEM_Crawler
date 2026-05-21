@@ -8,7 +8,7 @@ Two Power Query M-code scripts built to extract, model, and analyse live UK ener
 
 | File | Description |
 |---|---|
-| `OFGEM_crawler_LinkedIn.m` | Fact table pipeline — scrapes live pricing data, builds a star schema, joins payment method and cost category dimensions |
+| `OFGEM_crawler.m` | Fact table pipeline — scrapes live pricing data, builds a star schema, joins payment method and cost category dimensions |
 | `RollingCalendar.m` | Date dimension — dynamic rolling 2-year calendar with ISO 8601 weeks, calendar quarters, and fiscal quarters (April start) |
 
 ---
@@ -17,7 +17,7 @@ Two Power Query M-code scripts built to extract, model, and analyse live UK ener
 
 Both scripts are Power Query M-code and can be loaded into Excel or Power BI via **Advanced Editor**.
 
-Two variables at the top of `OFGEM_crawler_LinkedIn.m` control the entire pipeline:
+Two variables at the top of `OFGEM_crawler.m` control the entire pipeline:
 
 ```
 CurrentWWW         → OFGEM page URL
