@@ -1,4 +1,4 @@
-# OFGEM Energy Price Cap — Data Pipeline
+# OFGEM Energy Price Cap Data Pipeline
 
 Two pipelines built to extract, model, and analyse live UK energy pricing data from the OFGEM website — no manual downloads, no copy-paste.
 
