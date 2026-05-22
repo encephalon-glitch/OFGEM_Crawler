@@ -1,0 +1,136 @@
+Region,Standing Charge January to March 2026 (pence/day),Standing Charge April to June 2026 (pence/day),Unit Rate January to March 2026 (pence/kWh),Unit Rate April to June 2026 (pence/kWh),PaymentMethod,EnergyType
+North West,52.22,47.63,28.45,24.7,Direct Debit,Electricity
+Northern,60.93,64.3,26.75,23.81,Direct Debit,Electricity
+Yorkshire,59.72,64.4,26.69,23.85,Direct Debit,Electricity
+Northern Scotland,62.07,57.57,28.36,25.02,Direct Debit,Electricity
+Southern,45.7,49.7,27.83,24.98,Direct Debit,Electricity
+Southern Scotland,57.62,64.2,27.18,24.4,Direct Debit,Electricity
+North Wales and Mersey,71.01,70.78,29.09,26.19,Direct Debit,Electricity
+London,47.11,44.83,27.0,24.9,Direct Debit,Electricity
+South East,48.66,54.45,28.27,25.23,Direct Debit,Electricity
+Eastern,49.33,53.95,27.88,24.94,Direct Debit,Electricity
+East Midlands,50.17,53.61,26.89,23.67,Direct Debit,Electricity
+Midlands,54.08,59.72,26.99,23.89,Direct Debit,Electricity
+Southern Western,55.11,57.9,28.16,24.97,Direct Debit,Electricity
+South Wales,52.75,57.86,28.18,24.9,Direct Debit,Electricity
+Great Britain average,54.75,57.21,27.69,24.67,Direct Debit,Electricity
+North West,51.49,46.92,26.98,23.04,Direct Debit,Gas
+Northern,60.14,63.5,25.6,22.31,Direct Debit,Gas
+Yorkshire,59.05,63.72,25.61,22.42,Direct Debit,Gas
+Northern Scotland,62.89,58.28,27.01,23.4,Direct Debit,Gas
+Southern,45.73,49.69,26.56,23.36,Direct Debit,Gas
+Southern Scotland,58.4,64.81,25.95,22.82,Direct Debit,Gas
+North Wales and Mersey,70.21,69.98,27.64,24.43,Direct Debit,Gas
+London,46.63,44.41,25.82,23.21,Direct Debit,Gas
+South East,49.04,54.74,26.89,23.53,Direct Debit,Gas
+Eastern,49.65,54.18,26.6,23.32,Direct Debit,Gas
+East Midlands,49.57,53.05,25.72,22.2,Direct Debit,Gas
+Midlands,53.67,59.34,25.84,22.44,Direct Debit,Gas
+Southern Western,55.59,58.32,26.79,23.3,Direct Debit,Gas
+South Wales,51.74,56.85,26.86,23.31,Direct Debit,Gas
+Great Britain average,54.56,56.99,26.42,23.08,Direct Debit,Gas
+North West,35.23,29.22,5.89,5.65,Direct Debit,Economy 7
+Northern,35.21,29.2,5.93,5.69,Direct Debit,Economy 7
+Yorkshire,35.18,29.18,5.9,5.68,Direct Debit,Economy 7
+Northern Scotland,35.28,29.27,5.89,5.64,Direct Debit,Economy 7
+Southern,34.56,28.56,6.0,5.94,Direct Debit,Economy 7
+Southern Scotland,35.3,29.3,5.89,5.64,Direct Debit,Economy 7
+North Wales and Mersey,35.49,29.48,5.94,5.69,Direct Debit,Economy 7
+London,35.63,29.6,6.03,5.91,Direct Debit,Economy 7
+South East,34.68,28.67,5.83,5.8,Direct Debit,Economy 7
+Eastern,34.74,28.74,5.87,5.67,Direct Debit,Economy 7
+East Midlands,34.82,28.82,5.79,5.6,Direct Debit,Economy 7
+Midlands,35.12,29.11,5.85,5.69,Direct Debit,Economy 7
+Southern Western,34.71,28.72,6.15,5.89,Direct Debit,Economy 7
+South Wales,35.35,29.35,6.11,5.84,Direct Debit,Economy 7
+Great Britain average,35.09,29.09,5.93,5.74,Direct Debit,Economy 7
+North West,60.18,55.5,30.02,26.08,Standard Credit,Electricity
+Northern,69.48,73.2,28.23,25.14,Standard Credit,Electricity
+Yorkshire,68.16,73.27,28.17,25.18,Standard Credit,Electricity
+Northern Scotland,70.5,65.91,29.93,26.41,Standard Credit,Electricity
+Southern,53.94,58.31,29.37,26.37,Standard Credit,Electricity
+Southern Scotland,65.62,72.76,28.69,25.75,Standard Credit,Electricity
+North Wales and Mersey,79.68,79.61,30.7,27.65,Standard Credit,Electricity
+London,54.33,52.12,28.49,26.28,Standard Credit,Electricity
+South East,57.07,63.32,29.83,26.63,Standard Credit,Electricity
+Eastern,57.71,62.72,29.43,26.32,Standard Credit,Electricity
+East Midlands,58.33,62.12,28.38,24.99,Standard Credit,Electricity
+Midlands,62.23,68.36,28.48,25.22,Standard Credit,Electricity
+Southern Western,63.75,66.85,29.72,26.36,Standard Credit,Electricity
+South Wales,60.61,66.19,29.74,26.29,Standard Credit,Electricity
+Great Britain average,62.97,65.73,29.23,26.05,Standard Credit,Electricity
+North West,60.1,55.42,28.46,24.31,Standard Credit,Gas
+Northern,69.37,73.09,27.0,23.54,Standard Credit,Gas
+Yorkshire,68.05,73.15,27.01,23.66,Standard Credit,Gas
+Northern Scotland,70.4,65.81,28.49,24.68,Standard Credit,Gas
+Southern,53.86,58.22,28.02,24.65,Standard Credit,Gas
+Southern Scotland,65.52,72.65,27.37,24.08,Standard Credit,Gas
+North Wales and Mersey,79.57,79.5,29.16,25.78,Standard Credit,Gas
+London,54.25,52.04,27.24,24.48,Standard Credit,Gas
+South East,56.99,63.22,28.37,24.83,Standard Credit,Gas
+Eastern,57.63,62.63,28.06,24.6,Standard Credit,Gas
+East Midlands,58.24,62.02,27.13,23.43,Standard Credit,Gas
+Midlands,62.13,68.25,27.26,23.68,Standard Credit,Gas
+Southern Western,63.66,66.75,28.26,24.59,Standard Credit,Gas
+South Wales,60.53,66.09,28.33,24.59,Standard Credit,Gas
+Great Britain average,62.88,65.63,27.87,24.35,Standard Credit,Gas
+North West,42.91,36.72,6.21,5.95,Standard Credit,Economy 7
+Northern,42.91,36.72,6.25,6.0,Standard Credit,Economy 7
+Yorkshire,42.91,36.72,6.21,5.98,Standard Credit,Economy 7
+Northern Scotland,42.91,36.72,6.2,5.94,Standard Credit,Economy 7
+Southern,42.9,36.7,6.32,6.26,Standard Credit,Economy 7
+Southern Scotland,42.91,36.72,6.2,5.94,Standard Credit,Economy 7
+North Wales and Mersey,42.91,36.72,6.26,5.99,Standard Credit,Economy 7
+London,42.9,36.7,6.35,6.23,Standard Credit,Economy 7
+South East,42.92,36.71,6.14,6.11,Standard Credit,Economy 7
+Eastern,42.91,36.72,6.18,5.98,Standard Credit,Economy 7
+East Midlands,42.92,36.73,6.1,5.9,Standard Credit,Economy 7
+Midlands,42.91,36.72,6.16,5.99,Standard Credit,Economy 7
+Southern Western,42.89,36.7,6.47,6.2,Standard Credit,Economy 7
+South Wales,42.9,36.71,6.43,6.15,Standard Credit,Economy 7
+Great Britain average,42.91,36.71,6.25,6.04,Standard Credit,Economy 7
+North West,52.22,47.63,27.57,23.96,Prepayment Meter,Electricity
+Northern,60.93,64.3,25.93,23.09,Prepayment Meter,Electricity
+Yorkshire,59.72,64.4,25.87,23.13,Prepayment Meter,Electricity
+Northern Scotland,62.07,57.57,27.49,24.26,Prepayment Meter,Electricity
+Southern,45.7,49.7,26.97,24.23,Prepayment Meter,Electricity
+Southern Scotland,57.62,64.2,26.35,23.66,Prepayment Meter,Electricity
+North Wales and Mersey,71.01,70.78,28.2,25.4,Prepayment Meter,Electricity
+London,47.11,44.83,26.17,24.14,Prepayment Meter,Electricity
+South East,48.66,54.45,27.4,24.46,Prepayment Meter,Electricity
+Eastern,49.33,53.95,27.03,24.18,Prepayment Meter,Electricity
+East Midlands,50.17,53.61,26.06,22.96,Prepayment Meter,Electricity
+Midlands,54.08,59.72,26.16,23.17,Prepayment Meter,Electricity
+Southern Western,55.11,57.9,27.29,24.21,Prepayment Meter,Electricity
+South Wales,52.75,57.86,27.32,24.15,Prepayment Meter,Electricity
+Great Britain average,54.75,57.21,26.84,23.93,Prepayment Meter,Electricity
+North West,51.49,46.92,26.15,22.34,Prepayment Meter,Gas
+Northern,60.14,63.5,24.81,21.63,Prepayment Meter,Gas
+Yorkshire,59.05,63.72,24.82,21.74,Prepayment Meter,Gas
+Northern Scotland,62.89,58.28,26.18,22.69,Prepayment Meter,Gas
+Southern,45.73,49.69,25.74,22.65,Prepayment Meter,Gas
+Southern Scotland,58.4,64.81,25.15,22.13,Prepayment Meter,Gas
+North Wales and Mersey,70.21,69.98,26.8,23.69,Prepayment Meter,Gas
+London,46.63,44.41,25.03,22.5,Prepayment Meter,Gas
+South East,49.04,54.74,26.07,22.82,Prepayment Meter,Gas
+Eastern,49.65,54.18,25.78,22.61,Prepayment Meter,Gas
+East Midlands,49.57,53.05,24.93,21.53,Prepayment Meter,Gas
+Midlands,53.67,59.34,25.05,21.76,Prepayment Meter,Gas
+Southern Western,55.59,58.32,25.97,22.6,Prepayment Meter,Gas
+South Wales,51.74,56.85,26.04,22.6,Prepayment Meter,Gas
+Great Britain average,54.56,56.99,25.61,22.38,Prepayment Meter,Gas
+North West,35.23,29.22,5.65,5.41,Prepayment Meter,Economy 7
+Northern,35.21,29.2,5.74,5.51,Prepayment Meter,Economy 7
+Yorkshire,35.18,29.18,5.68,5.46,Prepayment Meter,Economy 7
+Northern Scotland,35.28,29.27,5.65,5.41,Prepayment Meter,Economy 7
+Southern,34.56,28.56,5.83,5.77,Prepayment Meter,Economy 7
+Southern Scotland,35.3,29.3,5.65,5.41,Prepayment Meter,Economy 7
+North Wales and Mersey,35.49,29.48,5.7,5.45,Prepayment Meter,Economy 7
+London,35.63,29.6,5.84,5.73,Prepayment Meter,Economy 7
+South East,34.68,28.67,5.62,5.59,Prepayment Meter,Economy 7
+Eastern,34.74,28.74,5.7,5.51,Prepayment Meter,Economy 7
+East Midlands,34.82,28.82,5.57,5.38,Prepayment Meter,Economy 7
+Midlands,35.12,29.11,5.63,5.46,Prepayment Meter,Economy 7
+Southern Western,34.71,28.72,5.97,5.73,Prepayment Meter,Economy 7
+South Wales,35.35,29.35,5.87,5.61,Prepayment Meter,Economy 7
+Great Britain average,35.09,29.09,5.72,5.53,Prepayment Meter,Economy 7
