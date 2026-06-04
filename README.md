@@ -2,7 +2,7 @@
 
 Two pipelines built to extract, model, and analyse live UK energy pricing data from the OFGEM website — no manual downloads, no copy-paste.
 
-The Python scraper (`ofgem_scraper_v1_2.py`) supersedes the original Power Query approach (`OFGEM_crawler_LinkedIn.m`) following an OFGEM page restructure in 2026 which moved from static HTML tables to JavaScript-rendered content. Both are kept here as they tell different parts of the same story.
+The Python scraper (`ofgem_scraper_v1_2.py`) supersedes the original Power Query approach (`OFGEM_crawler_Mcode.m`) following an OFGEM page restructure in 2026 which moved from static HTML tables to JavaScript-rendered content. Both are kept here as they tell different parts of the same story.
 
 ---
 
@@ -11,7 +11,7 @@ The Python scraper (`ofgem_scraper_v1_2.py`) supersedes the original Power Query
 | File | Version | Description |
 |---|---|---|
 | `ofgem_scraper_v1_2.py` | v1.2 | Python scraper — Playwright, BeautifulSoup, Pandas. Current approach. |
-| `OFGEM_crawler_LinkedIn.m` | v1.0 | Power Query M-code scraper — CSS selectors, star schema, fact/dimension model. Pre-2026 page structure. |
+| `OFGEM_crawler_Mcode.m` | v1.0 | Power Query M-code scraper — CSS selectors, star schema, fact/dimension model. Pre-2026 page structure. |
 | `RollingCalendar.m` | v1.9 | Power Query date dimension — dynamic rolling 2-year calendar, ISO 8601 weeks, fiscal quarters (April start). |
 | `ofgem_EnergyPriceCap.csv` | — | Sample output from most recent scraper run. |
 
